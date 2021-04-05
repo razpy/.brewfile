@@ -7,6 +7,11 @@ cask "docker"
 
 brew "git"
 
+# ruby version manager
+brew "rbenv"
+## rbenv単体ではrubyをbuildできないため
+brew "ruby-build"
+
 # Official Amazon AWS command-line interface
 brew "awscli"
 # Login and retrieve AWS temporary credentials using a SAML IDP
