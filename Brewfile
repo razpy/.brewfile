@@ -48,7 +48,6 @@ cask "notion"
 cask "quicklook-json"
 
 # Digital design and prototyping platform
-cask "sketch"
 cask "figma"
 
 # コミュニケーションツール
