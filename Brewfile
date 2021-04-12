@@ -6,6 +6,7 @@ brew "docker"
 cask "docker"
 
 brew "git"
+brew "git-lfs"
 
 # ruby version manager
 brew "rbenv"
