@@ -60,4 +60,7 @@ cask "visual-studio-code"
 cask "xcodes"
 cask "android-studio"
 
+# Language Transfer
+cask "deepl"
+
 mas 'Twitter', id: 1482454543
