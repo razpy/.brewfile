@@ -49,9 +49,6 @@ cask "notion"
 # quicklookでjsonをpreviewできる
 cask "quicklook-json"
 
-# Digital design and prototyping platform
-cask "figma"
-
 # コミュニケーションツール
 cask "slack"
 cask "discord"
