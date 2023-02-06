@@ -32,6 +32,7 @@ cask "appcleaner"
 
 # password manager
 cask "1password"
+cask "1password/tap/1password-cli"
 
 # Clipboard extension app
 cask "clipy"
