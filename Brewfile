@@ -56,5 +56,8 @@ cask "discord"
 # Open-source code editor
 cask "visual-studio-code"
 
+# Mobile App IDE
+cask "xcodes"
+cask "android-studio"
+
 mas 'Twitter', id: 1482454543
-mas 'Xcode', id: 497799835
