@@ -57,7 +57,6 @@ cask "discord"
 cask "visual-studio-code"
 
 # Mobile App IDE
-cask "xcodes"
 cask "android-studio"
 
 # Language Transfer
